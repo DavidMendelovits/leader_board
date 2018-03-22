@@ -1,0 +1,1 @@
+grep -o 'data-location-graph.*}"' jowalz.txt
