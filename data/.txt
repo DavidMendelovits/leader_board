@@ -1,0 +1,19 @@
+
+  <!-- This file lives in public/404.html -->
+  <div class="logo"><img src="/images/42_logo.svg" alt="logo"></div>
+  <div class="title"><img src="/images/404.png" alt=""></div>
+  <div class="screen">
+    <div class="main-image" style="background-image: url(&quot;/images/1-sorry.gif&quot;);">
+
+    </div>
+    <img src="/images/macbook.png" alt="">
+  </div>
+  <h1>Seems like your page doesn't exist anymore !</h1>
+  <script>
+    $(document).ready(function() {
+      var image = "/images/" + (Math.floor(Math.random() * 100 % 8) + 1) + "-sorry.gif";
+      $(".main-image").css("background-image", "url(" + image + ")");
+    });
+  </script>
+
+

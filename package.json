@@ -12,5 +12,8 @@
     "fs": "0.0.1-security",
     "lowdb": "^1.0.0",
     "nightmare": "^3.0.0"
+  },
+  "devDependencies": {
+    "electron": "^1.8.4"
   }
 }

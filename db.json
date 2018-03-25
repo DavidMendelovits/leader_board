@@ -1,0 +1,508 @@
+{
+  "users": [
+    {
+      "login": "abao",
+      "total_secs": 580680
+    },
+    {
+      "login": "abraye",
+      "total_secs": 458520
+    },
+    {
+      "login": "acakste",
+      "total_secs": 661380
+    },
+    {
+      "login": "acalkins",
+      "total_secs": 444120
+    },
+    {
+      "login": "aclotair",
+      "total_secs": 137580
+    },
+    {
+      "login": "adfische",
+      "total_secs": 570840
+    },
+    {
+      "login": "adhillon",
+      "total_secs": 564780
+    },
+    {
+      "login": "afrantzi",
+      "total_secs": 643080
+    },
+    {
+      "login": "agifford",
+      "total_secs": 570060
+    },
+    {
+      "login": "ahoussei",
+      "total_secs": 735900
+    },
+    {
+      "login": "ajohnson",
+      "total_secs": 440040
+    },
+    {
+      "login": "altuktam",
+      "total_secs": 416820
+    },
+    {
+      "login": "alyle",
+      "total_secs": 568560
+    },
+    {
+      "login": "amontano",
+      "total_secs": 359220
+    },
+    {
+      "login": "amyburgh",
+      "total_secs": 595380
+    },
+    {
+      "login": "asarantu",
+      "total_secs": 165300
+    },
+    {
+      "login": "aswong",
+      "total_secs": 386460
+    },
+    {
+      "login": "bmorrow",
+      "total_secs": 469080
+    },
+    {
+      "login": "brlobo-a",
+      "total_secs": 669180
+    },
+    {
+      "login": "bviseu-l",
+      "total_secs": 541500
+    },
+    {
+      "login": "calamber",
+      "total_secs": 450300
+    },
+    {
+      "login": "cbrill",
+      "total_secs": 313020
+    },
+    {
+      "login": "cerodrig",
+      "total_secs": 665580
+    },
+    {
+      "login": "cesuh",
+      "total_secs": 515280
+    },
+    {
+      "login": "cflores-",
+      "total_secs": 543420
+    },
+    {
+      "login": "cooswold",
+      "total_secs": 584520
+    },
+    {
+      "login": "cgleason",
+      "total_secs": 545580
+    },
+    {
+      "login": "cpanton-",
+      "total_secs": 134400
+    },
+    {
+      "login": "cperng",
+      "total_secs": 666660
+    },
+    {
+      "login": "crucker",
+      "total_secs": 328560
+    },
+    {
+      "login": "cwu",
+      "total_secs": 643980
+    },
+    {
+      "login": "czheng",
+      "total_secs": 548040
+    },
+    {
+      "login": "debaxter",
+      "total_secs": 438900
+    },
+    {
+      "login": "dmendelo",
+      "total_secs": 629640
+    },
+    {
+      "login": "dmorgan",
+      "total_secs": 223140
+    },
+    {
+      "login": "dpatel",
+      "total_secs": 418380
+    },
+    {
+      "login": "dporres",
+      "total_secs": 586620
+    },
+    {
+      "login": "dshah",
+      "total_secs": 539520
+    },
+    {
+      "login": "dventura",
+      "total_secs": 219540
+    },
+    {
+      "login": "dywarrie",
+      "total_secs": 473760
+    },
+    {
+      "login": "edehmlow",
+      "total_secs": 577860
+    },
+    {
+      "login": "ehsu",
+      "total_secs": 575580
+    },
+    {
+      "login": "ezmaize",
+      "total_secs": 421860
+    },
+    {
+      "login": "fboudyaf",
+      "total_secs": 603240
+    },
+    {
+      "login": "fbueno-m",
+      "total_secs": 691740
+    },
+    {
+      "login": "fecrespo",
+      "total_secs": 8580
+    },
+    {
+      "login": "fhong",
+      "total_secs": 528180
+    },
+    {
+      "login": "fferreir",
+      "total_secs": 494220
+    },
+    {
+      "login": "ftiwana",
+      "total_secs": 70200
+    },
+    {
+      "login": "gsolorio",
+      "total_secs": 473820
+    },
+    {
+      "login": "hderan-",
+      "total_secs": 493680
+    },
+    {
+      "login": "hemaes-r",
+      "total_secs": 395280
+    },
+    {
+      "login": "hlu",
+      "total_secs": 516660
+    },
+    {
+      "login": "jberdiga",
+      "total_secs": 617460
+    },
+    {
+      "login": "jde-oliv",
+      "total_secs": 573840
+    },
+    {
+      "login": "jdurani",
+      "total_secs": 416820
+    },
+    {
+      "login": "jobirech",
+      "total_secs": 626940
+    },
+    {
+      "login": "jochang",
+      "total_secs": 487980
+    },
+    {
+      "login": "jogomes",
+      "total_secs": 516960
+    },
+    {
+      "login": "jowalz",
+      "total_secs": 580140
+    },
+    {
+      "login": "jpiao",
+      "total_secs": 643380
+    },
+    {
+      "login": "jqueen",
+      "total_secs": 432420
+    },
+    {
+      "login": "jsalanga",
+      "total_secs": 587160
+    },
+    {
+      "login": "jsanders",
+      "total_secs": 535740
+    },
+    {
+      "login": "jsmith-j",
+      "total_secs": 550680
+    },
+    {
+      "login": "jtashako",
+      "total_secs": 516000
+    },
+    {
+      "login": "jtsai",
+      "total_secs": 678720
+    },
+    {
+      "login": "julee",
+      "total_secs": 679260
+    },
+    {
+      "login": "kbrown",
+      "total_secs": 540480
+    },
+    {
+      "login": "kchen",
+      "total_secs": 474660
+    },
+    {
+      "login": "khou",
+      "total_secs": 799800
+    },
+    {
+      "login": "kiisaac",
+      "total_secs": 519540
+    },
+    {
+      "login": "kradoste",
+      "total_secs": 556920
+    },
+    {
+      "login": "kuchen",
+      "total_secs": 597120
+    },
+    {
+      "login": "lchen",
+      "total_secs": 569700
+    },
+    {
+      "login": "ldehaudt",
+      "total_secs": 710460
+    },
+    {
+      "login": "lganti",
+      "total_secs": 616380
+    },
+    {
+      "login": "lmalagon",
+      "total_secs": 426600
+    },
+    {
+      "login": "lphua",
+      "total_secs": 576720
+    },
+    {
+      "login": "ltautuaa",
+      "total_secs": 401400
+    },
+    {
+      "login": "majones",
+      "total_secs": 466800
+    },
+    {
+      "login": "malves-b",
+      "total_secs": 595080
+    },
+    {
+      "login": "mdelos-s",
+      "total_secs": 489600
+    },
+    {
+      "login": "mlewis-l",
+      "total_secs": 598920
+    },
+    {
+      "login": "mnickel",
+      "total_secs": 728100
+    },
+    {
+      "login": "mweir",
+      "total_secs": 534000
+    },
+    {
+      "login": "ncavanau",
+      "total_secs": 410100
+    },
+    {
+      "login": "ncosta",
+      "total_secs": 482520
+    },
+    {
+      "login": "npatton",
+      "total_secs": 546240
+    },
+    {
+      "login": "nsmith",
+      "total_secs": 280500
+    },
+    {
+      "login": "nstefane",
+      "total_secs": 361440
+    },
+    {
+      "login": "olmishyn",
+      "total_secs": 667740
+    },
+    {
+      "login": "ossanche",
+      "total_secs": 453180
+    },
+    {
+      "login": "pbodin",
+      "total_secs": 592260
+    },
+    {
+      "login": "pdeguing",
+      "total_secs": 570480
+    },
+    {
+      "login": "pfu",
+      "total_secs": 729180
+    },
+    {
+      "login": "pradoste",
+      "total_secs": 418020
+    },
+    {
+      "login": "rastle",
+      "total_secs": 387660
+    },
+    {
+      "login": "rji",
+      "total_secs": 752520
+    },
+    {
+      "login": "rjocic",
+      "total_secs": 473760
+    },
+    {
+      "login": "rramos",
+      "total_secs": 301620
+    },
+    {
+      "login": "rsathiad",
+      "total_secs": 486240
+    },
+    {
+      "login": "saolivei",
+      "total_secs": 547440
+    },
+    {
+      "login": "sechang",
+      "total_secs": 614220
+    },
+    {
+      "login": "shlee",
+      "total_secs": 516660
+    },
+    {
+      "login": "shuang",
+      "total_secs": 583860
+    },
+    {
+      "login": "smaffeo-",
+      "total_secs": 532380
+    },
+    {
+      "login": "smonroe",
+      "total_secs": 688200
+    },
+    {
+      "login": "sschutze",
+      "total_secs": 799860
+    },
+    {
+      "login": "sshah",
+      "total_secs": 497760
+    },
+    {
+      "login": "sshih",
+      "total_secs": 532200
+    },
+    {
+      "login": "stautuaa",
+      "total_secs": 395040
+    },
+    {
+      "login": "tclaydon",
+      "total_secs": 262260
+    },
+    {
+      "login": "tdiaz",
+      "total_secs": 520440
+    },
+    {
+      "login": "thill",
+      "total_secs": 449400
+    },
+    {
+      "login": "tryan",
+      "total_secs": 652680
+    },
+    {
+      "login": "vkostenk",
+      "total_secs": 592860
+    },
+    {
+      "login": "vlhorbac",
+      "total_secs": 596340
+    },
+    {
+      "login": "vsanghan",
+      "total_secs": 595620
+    },
+    {
+      "login": "wawong",
+      "total_secs": 562080
+    },
+    {
+      "login": "wiweathe",
+      "total_secs": 418380
+    },
+    {
+      "login": "yiwzhang",
+      "total_secs": 453240
+    },
+    {
+      "login": "ytran",
+      "total_secs": 519000
+    },
+    {
+      "login": "zpinard",
+      "total_secs": 579360
+    },
+    {
+      "login": "zwen",
+      "total_secs": 876840
+    },
+    {
+      "login": "zzibert",
+      "total_secs": 607320
+    }
+  ]
+}
