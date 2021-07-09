@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "lowdb": "^1.0.0",
     "nightmare": "^3.0.0"
   },
